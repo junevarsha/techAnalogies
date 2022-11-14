@@ -1,0 +1,17 @@
+# Hello World! 
+
+## This repo is built to help people understand technology better.
+
+## My goal is to provide you all the curated resources that can give you the "Aha" moment.
+
+
+### Javascript and Friends
+
+[React Explained in Five Visual Metaphors](https://maggieappleton.com/reactpotato)
+
+
+### Web Infrastructure
+
+[How DNS works?](https://howdns.works/ep1/)
+
+[How HTTPS works?](https://howhttps.works/why-do-we-need-https/)
