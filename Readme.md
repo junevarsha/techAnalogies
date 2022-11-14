@@ -9,6 +9,7 @@ If you have seen any interesting articles that explains tech concepts via simple
 
 [React Explained in Five Visual Metaphors](https://maggieappleton.com/reactpotato)
 
+[Batman-themed explanation of CSS specificity](http://batificity.com/)
 
 ### Web Infrastructure
 
